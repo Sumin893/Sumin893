@@ -34,6 +34,12 @@ Frontend와 AI를 활용한 Backend/Full-stack 프로젝트도 꾸준히 진행�
 
 ---
 
+## 🌱 My Contributions
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+---
+
 ## 🛠 Tech Stack
 
 ### 📊 Data Analytics
