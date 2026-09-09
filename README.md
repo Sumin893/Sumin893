@@ -15,6 +15,12 @@ Frontend와 AI를 활용한 Backend/Full-stack 프로젝트도 꾸준히 진행�
 
 ---
 
+## 🌱 My Contributions
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
 ## 👩‍💻 About Me
 - 📊 Currently focusing on **Data Analytics & Data-driven Decision Making**
 - 🔍 Interested in **CRM Analytics / User Behavior Analytics / Financial Data**
@@ -31,12 +37,6 @@ Frontend와 AI를 활용한 Backend/Full-stack 프로젝트도 꾸준히 진행�
 - 💰 Financial / Company Growth Data Analytics
 - 🤖 AI-powered Full-stack Development
 - ⚛️ React / Next.js Frontend Development
-
----
-
-## 🌱 My Contributions
-
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 ---
 
